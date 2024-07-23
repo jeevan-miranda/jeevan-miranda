@@ -5,7 +5,7 @@ I'm a full stack software developer with a strong foundation in coding and probl
 With me I bring 10 years of customer service experience, 5 of which I've spent at Xero accounting software bridging communication between cusatomers and product teams to assist in solving customer issues and bugs. I'm eager to apply my problem solving skills and my technical skills to build amazing tech as part of a development team.
 
 Skills
-Languages: JavaScript, Typescript, HTML, CSS, SQL Frameworks and Libraries: React, Node.js, Express Tools and Platforms: Git, GitHub, Visual Studio Code Databases: SQLite3 
+Languages: JavaScript, Typescript, HTML, CSS, Frameworks and Libraries: React, Node.js, Express Tools and Platforms: Git, GitHub, Visual Studio Code Databases: SQLite3 
 Other Skills: Agile methodologies, Debugging, Technical Support, Test driven development
 
 📫 How to reach me: 
